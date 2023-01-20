@@ -1,0 +1,7 @@
+setup.py
+paquete_1/client.py
+paquete_1/login_users.py
+paquete_1.egg-info/PKG-INFO
+paquete_1.egg-info/SOURCES.txt
+paquete_1.egg-info/dependency_links.txt
+paquete_1.egg-info/top_level.txt
